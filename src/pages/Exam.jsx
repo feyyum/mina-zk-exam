@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 
-import Back from "../assets/Back.svg";
+import Back from "../assets/back.svg";
 
 function Exam() {
   const { examId } = useParams();
